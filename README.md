@@ -1,5 +1,16 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
+<br>
+
+## 👩‍💻 About me
+* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
+* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
+* <img width="16" src="https://iconscout.com/icons/javascript-logo" alt="" /> Improving JavaScript
+* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> Diving into the front-end world
+
+<br>
+
+
 ## Contatos:
 
 <div>
