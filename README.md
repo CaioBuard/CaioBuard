@@ -12,9 +12,9 @@
 <br />
 
 ## About Me 🚀
-🌱  Working on being a front-end developer. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
-⚡  Currently improving my JavaScript and MySQL skills. </br>
+🌱  Working on being a .NET developer. </br>
+👨‍💻  I am passionate about Back End & I enjoy learning new things. </br>
+⚡  Currently improving my C#, VB.NET and MySQL skills. </br>
 
 
 ## 🛠 &nbsp;Tech Stack
